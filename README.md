@@ -1,6 +1,6 @@
 # CTF-Questions
 These are beginner CTF questions for the Forensic and Security Technology club at Cal Poly Pomona.<br/>
-Most of these questions are Foensic/Crypotgraphy challenges. There are 4 questions now. More will be uploaded in the future. <br/>
+Most of these questions are Forensic/Crypotgraphy challenges. There are 4 questions now. More will be uploaded in the future. <br/>
 Answers/how-to will eventually be posted the the FAST blog. Hints for each question are available in hints.txt
 
 ### Forensic/Cryptograpy Challenge 1:
