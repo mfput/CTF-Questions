@@ -1,0 +1,29 @@
+Forensic/Cryptograpy Challenge 1:
+Points: 40
+File: secret.wav
+Question: We've sent the following secret message channel on your Pokegear.
+Hint: I can't believe you have the audacity to ask for a hint.
+
+
+
+Forensic Challenge 2:
+Points: 10
+File: generic_picture.png
+Question: This is a generic picture. What is the exposure time of this photograph?
+Hint: Exiftool may be of some use.
+
+
+
+Forensic/Cryptography Challenge 3:
+Points 50
+File: fastlogo.png
+Question: Nothing unusal about a FAST logo right! Format: "FASTCTF{FLAG}"
+Hint: Ave, True to Ceaser. There also appears to be some low level genin justu at play...
+
+
+
+Forensic/Cryptography Challenge 4:
+Points 50
+File: file5
+Question: The flag is in there somewhere, I swear. Format: "fastctf{flag}"
+Hint: This archive appears to be password protected. Maybe a certain Cat can lend a hand?
