@@ -23,4 +23,8 @@ Points 50 <br/>
 File: file5 <br/>
 Question: The flag is in there somewhere, I swear. Format: "fastctf{flag}"
 
+### Programming Challenge 5:
+Points 20 <br/>
+File: file5.exe <br/>
+Question: Here's a simple C program. What's the password? Format: "fastctf{flag}"
 
