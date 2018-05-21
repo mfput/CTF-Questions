@@ -1,6 +1,6 @@
 Forensic/Cryptograpy Challenge 1:
 Points: 40
-File: secret.wav
+File: file1.wav
 Question: We've sent the following secret message channel on your Pokegear.
 Hint: I can't believe you have the audacity to ask for a hint.
 
@@ -8,7 +8,7 @@ Hint: I can't believe you have the audacity to ask for a hint.
 
 Forensic Challenge 2:
 Points: 10
-File: generic_picture.png
+File: file2.png
 Question: This is a generic picture. What is the exposure time of this photograph?
 Hint: Exiftool may be of some use.
 
@@ -16,7 +16,7 @@ Hint: Exiftool may be of some use.
 
 Forensic/Cryptography Challenge 3:
 Points 50
-File: fastlogo.png
+File: file3.png
 Question: Nothing unusal about a FAST logo right! Format: "FASTCTF{FLAG}"
 Hint: Ave, True to Ceaser. There also appears to be some low level genin justu at play...
 
@@ -24,7 +24,7 @@ Hint: Ave, True to Ceaser. There also appears to be some low level genin justu a
 
 Forensic/Cryptography Challenge 4:
 Points 50
-File: file5
+File: file4
 Question: The flag is in there somewhere, I swear. Format: "fastctf{flag}"
 Hint: This archive appears to be password protected. Maybe a certain Cat can lend a hand?
 
@@ -35,3 +35,35 @@ Points 20
 File: file5.exe 
 Question: Here's a simple C program. What's the password? Format: "fastctf{flag}"
 Hint: The C is so full, it's overflowing!
+
+
+
+Forensic Challenge 6:
+Points 50
+File: file6.E01
+Question: What is the original modification time by the kernel of the document "New Text Document.txt"? Format: 
+Hint: It appears this file has been timestomped. AnalyzeMFT may be able to help.
+
+
+
+Forensic Challenge 7:
+Points 20
+File: file7.JPEG
+Question: The flag is in this image. What is it? Format: fastctf{flag} 
+Hint: The magic is missing, don't believe the image now.
+
+
+
+Forensic Challenge 8:
+Points 40
+File: file8.zip
+Question: What is the MAC address of the computer these files originated from? 
+Hint: One of these files is the missing lnk to your answer.
+
+
+
+Forensic/Cryptography Challenge 9:
+Points 25
+File: file9.zip
+Question: What is the name of the executable with the MD5 hash of cdc47d670159eef60916ca03a9d4a007 that performs a mailicous task? (Don't worry none of these will actually harm your computer).  
+No Hint.
