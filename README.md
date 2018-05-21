@@ -5,22 +5,22 @@ Answers/how-to will eventually be posted the the FAST blog. Hints for each quest
 
 ### Forensic/Cryptograpy Challenge 1:
 Points: 40 <br/>
-File: secret.wav <br/>
+File: file1.wav <br/>
 Question: We've sent the following secret message on a secret channel on your Pokegear.
 
 ### Forensic Challenge 2:
 Points: 10 <br/>
-File: generic_picture.png <br/>
+File: file2.JPG <br/>
 Question: This is a generic picture. What is the exposure time of this photograph?
 
 ### Forensic/Cryptograpy Challenge 3:
 Points 50 <br/>
-File: fastlogo.png <br/>
+File: file3.png <br/>
 Question: Nothing unusal about a FAST logo right! Format: "FASTCTF{FLAG}"
 
 ### Forensic/Cryptograpy Challenge 4:
 Points 50 <br/>
-File: file5 <br/>
+File: file4 <br/>
 Question: The flag is in there somewhere, I swear. Format: "fastctf{flag}"
 
 ### Programming Challenge 5:
