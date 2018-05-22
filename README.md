@@ -28,3 +28,28 @@ Points 20 <br/>
 File: file5.exe <br/>
 Question: Here's a simple C program. What's the password? Format: "fastctf{flag}"
 
+### Forensic Challenge 6:
+Points: 50 <br/>
+File: file6.E01 <br/>
+Question: What is the exact original modification time by the kernel of the document "New Text Document.txt"? Format: YYYY-MM-DD HH:MM:SS.SSSSSS
+
+### Forensic Challenge 7:
+Points: 20 <br/>
+File: file7.JPEG <br/>
+Question: The flag is in this image. What is it? Format: fastctf{flag}
+
+### Forensic Challenge 8:
+Points: 40 <br/>
+File: file8.zip <br/>
+Question: What is the MAC address of the computer these files originated from? (Hex in lower case)
+
+### Forensic/Cryptography Challenge 9:
+Points: 10 <br/>
+File: file9.zip <br/>
+Question: What is the name of the executable with the MD5 hash of cdc47d670159eef60916ca03a9d4a007 that performs a mailicous task? (Don't worry none of these will actually harm your computer).
+
+### Programming/Retard Challenge 10:
+Points: 05 <br/>
+File: file10.zip <br/>
+Question: The flag is inside this Windows Batch file.
+
