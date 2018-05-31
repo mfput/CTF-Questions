@@ -1,6 +1,6 @@
 # CTF-Questions
 These are beginner CTF questions for the Forensic and Security Technology club at Cal Poly Pomona.<br/>
-Most of these questions are Forensic/Crypotgraphy challenges. There are 4 questions now. More will be uploaded in the future. <br/>
+Most of these questions are Forensic/Crypotgraphy challenges.<br/>
 Answers/how-to will eventually be posted the the FAST blog. Hints for each question are available in hints.txt
 
 ### Forensic/Cryptograpy Challenge 1:
@@ -46,7 +46,7 @@ Question: What is the MAC address of the computer these files originated from? (
 ### Forensic/Cryptography Challenge 9:
 Points: 10 <br/>
 File: file9.zip <br/>
-Question: What is the name of the executable with the MD5 hash of cdc47d670159eef60916ca03a9d4a007 that performs a mailicous task? (Don't worry none of these will actually harm your computer).
+Question: What is the name of the executable with the MD5 hash of cdc47d670159eef60916ca03a9d4a007 that performs a malicious task? (Don't worry none of these will actually harm your computer).
 
 ### Programming/Retard Challenge 10:
 Points: 05 <br/>
