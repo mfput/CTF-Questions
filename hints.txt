@@ -71,6 +71,14 @@ No Hint.
 
 Programming/Retard Challenge 10:
 Points: 5
-File: file10.bat https://github.com/mfput/CTF-Questions/raw/master/file10.zip
+File: file10.zip
 Question: The flag is inside this Windows Batch file.
 Hint: Strings is faster than restarting your computer.
+
+
+
+Forensic Challenge 11:
+Points: 15
+File: file11.txt
+Question: Find the flag in this text document!
+Hint: If you are having trouble with bit, shift your focus.
