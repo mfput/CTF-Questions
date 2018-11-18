@@ -53,3 +53,12 @@ Points: 05 <br/>
 File: file10.zip <br/>
 Question: The flag is inside this Windows Batch file.
 
+### Forensic Challenge 11:
+Points: 15 <br/>
+File: file11.txt <br/>
+Question: Find the flag in this text document!
+
+### Forensic Challenge 12:
+Points: 20 <br/>
+File: file12.zip <br/>
+Question: When was the flag deleted? Format: "YYYY-MM-DD HH:MM:SS"
