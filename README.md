@@ -6,7 +6,8 @@ Answers/how-to will eventually be posted the the FAST blog. Hints for each quest
 ### Forensic/Cryptograpy Challenge 1:
 Points: 40 <br/>
 File: file1.wav <br/>
-Question: We've sent the following secret message on a secret channel on your Pokegear.
+Question: We've sent the following secret message on a secret channel on your Pokegear. <br/>
+Answer: https://forensicnoobsecurity.blogspot.com/2019/01/detecting-audio-steganography-cal-poly.html
 
 ### Forensic Challenge 2:
 Points: 10 <br/>
