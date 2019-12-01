@@ -131,3 +131,6 @@ Points: 100 <br/>
 File: NTUSER.DAT <br/>
 Question: What is the exact URL of the start page for Internet Explorer?<br/>
 Answer:
+
+<br/>
+Future questions: PCAPs - CDP, WEP, SMB file share, printing, word document, excel formula, PDF forensics
