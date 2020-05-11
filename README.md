@@ -79,58 +79,58 @@ Answer:https://forensicnoobsecurity.blogspot.com/2019/03/recycle-bin-forensics-c
 Points: 100 <br/>
 File: Security <br/>
 Question: How many interactive logons were there on this machine?<br/>
-Answer:
+Answer: https://forensicnoobsecurity.blogspot.com/2019/12/windows-event-log-forensics-cal-poly.html
 
 ### Forensic Challenge 14:
 Points: 70 <br/>
 File: Security <br/>
 Question: What was the timestamp when Patrick last logged off? FORMAT: M/DD/YYYY<br/>
-Answer:
+Answer: https://forensicnoobsecurity.blogspot.com/2019/12/windows-event-log-forensics-cal-poly_1.html
 
 ### Forensic Challenge 15:
 Points: 110 <br/>
 File: Security <br/>
 Question: How many times did VMware tools change the system time?<br/>
-Answer:
+Answer: https://forensicnoobsecurity.blogspot.com/2020/05/searching-for-specific-processes-in.html
 
 ### Forensic Challenge 16:
 Points: 150 <br/>
 File: NTUSER.DAT <br/>
 Question: What is the target name of the least recent most recent document opened in explorer?<br/>
-Answer:
+Answer: https://forensicnoobsecurity.blogspot.com/2020/05/finding-most-recent-document-opening.html
 
 ### Forensic Challenge 17:
 Points: 150 <br/>
 File: NTUSER.DAT <br/>
 Question: What is the 2nd command ran in the Windows run dialog box?<br/>
-Answer:
+Answer: https://forensicnoobsecurity.blogspot.com/2020/05/run-dialog-forensics-cal-poly-ctf.html
 
 ### Forensic Challenge 18:
 Points: 200 <br/>
 File: NTUSER.DAT <br/>
 Question: How many times was minesweeper run? FORMAT: ##<br/>
-Answer:
+Answer: https://forensicnoobsecurity.blogspot.com/2020/05/user-assist-forensics-cal-poly-fast-ctf.html
 
 
 ### Forensic Challenge 19:
 Points: 200 <br/>
 File: NTUSER.DAT <br/>
 Question: When was the last date ProcMon.exe was run? FORMAT: YYYY-MM-DD<br/>
-Answer:
+Answer: https://forensicnoobsecurity.blogspot.com/2020/05/user-assist-forensics-2-cal-poly-fast.html
 
 
 ### Forensic Challenge 20:
 Points: 100 <br/>
 File: NTUSER.DAT <br/>
 Question: What is the exact version of Google Chrome installed?<br/>
-Answer:
+Answer: https://forensicnoobsecurity.blogspot.com/2020/05/find-chrome-version-from-windows.html
 
 
 ### Forensic Challenge 21:
 Points: 100 <br/>
 File: NTUSER.DAT <br/>
 Question: What is the exact URL of the start page for Internet Explorer?<br/>
-Answer:
+Answer: https://forensicnoobsecurity.blogspot.com/2020/05/finding-homepage-in-windows-registry.html
 
 <br/>
 Future questions: PCAPs - CDP, WEP, SMB file share, printing, word document, excel formula, PDF forensics, morse binary
