@@ -1,7 +1,8 @@
 # CTF-Questions
 These are beginner CTF questions for the Forensic and Security Technology club at Cal Poly Pomona.<br/>
 Most of these questions are Forensic/Crypotgraphy challenges.<br/>
-Answers/how-to will eventually be posted the the FAST blog. Hints for each question are available in hints.txt
+Answers/how-to will eventually be posted the the FAST blog. Hints for each question are available in hints.txt Answers are on my Blog.
+Like my work? Donate here: https://buymeacoffee.com/forensicnoobsecurity
 
 ### Forensic/Cryptograpy Challenge 1:
 Points: 175 <br/>
@@ -132,5 +133,7 @@ File: NTUSER.DAT <br/>
 Question: What is the exact URL of the start page for Internet Explorer?<br/>
 Answer: https://forensicnoobsecurity.blogspot.com/2020/05/finding-homepage-in-windows-registry.html
 
+
+Like my work? Donate here: https://buymeacoffee.com/forensicnoobsecurity0
 <br/>
 Future questions: PCAPs - CDP, WEP, SMB file share, printing, word document, excel formula, PDF forensics, morse binary
