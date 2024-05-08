@@ -134,6 +134,6 @@ Question: What is the exact URL of the start page for Internet Explorer?<br/>
 Answer: https://forensicnoobsecurity.blogspot.com/2020/05/finding-homepage-in-windows-registry.html
 
 
-Like my work? Donate here: https://buymeacoffee.com/forensicnoobsecurity0
+Like my work? Donate here: https://buymeacoffee.com/forensicnoobsecurity
 <br/>
 Future questions: PCAPs - CDP, WEP, SMB file share, printing, word document, excel formula, PDF forensics, morse binary
